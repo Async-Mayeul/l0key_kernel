@@ -1,2 +1,2 @@
-# l0key_kernel
-My little Kernel
+# L0key Kernel
+My first x86 Kernel
